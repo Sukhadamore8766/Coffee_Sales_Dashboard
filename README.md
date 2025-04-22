@@ -10,26 +10,26 @@ This dashboard is for presenting my insights to the regional manager of the coff
 
 
 ## Insights :
--Strong Revenue Momentum: Consistent revenue growth month-over-month indicates a healthy business trajectory. June shows a significant peak.
+- Strong Revenue Momentum: Consistent revenue growth month-over-month indicates a healthy business trajectory. June shows a significant peak.
 
--"Sustainably Grown Organic Lg" is a Key Revenue Driver: This product commands high sales volume and revenue share.
+- "Sustainably Grown Organic Lg" is a Key Revenue Driver: This product commands high sales volume and revenue share.
 
--Peak Sales Occur Mid-Morning and Lunch: 7 AM-10 AM and around 1 PM are prime transaction times. Weekdays, especially Monday,Thursday and Friday  are the busiest 
+- Peak Sales Occur Mid-Morning and Lunch: 7 AM-10 AM and around 1 PM are prime transaction times. Weekdays, especially Monday,Thursday and Friday  are the busiest 
  days.
  
--Underperforming Products Present Optimization Opportunities: "Morning Sunrise Chai" and "Serenity Green Tea" show low traction.
-
+- Underperforming Products Present Optimization Opportunities: "Morning Sunrise Chai" and "Serenity Green Tea" show low traction.
+ 
 ## Recommendations:
 
--Maximize Top Performers: Ensure consistent stock and explore targeted promotions for high-demand items like "Sustainably Grown Organic Lg."
+- Maximize Top Performers: Ensure consistent stock and explore targeted promotions for high-demand items like "Sustainably Grown Organic Lg."
 
--Optimize Menu Performance: Evaluate and potentially reposition or discontinue underperforming products to improve efficiency and focus.
+- Optimize Menu Performance: Evaluate and potentially reposition or discontinue underperforming products to improve efficiency and focus.
 
--Strategic Staffing: Align staffing levels with peak hours and days to enhance customer service and capture maximum sales.
+- Strategic Staffing: Align staffing levels with peak hours and days to enhance customer service and capture maximum sales.
 
--Weekday Focus, Weekend Opportunity: Leverage strong weekday traffic with targeted offers and investigate strategies to boost weekend sales.
+- Weekday Focus, Weekend Opportunity: Leverage strong weekday traffic with targeted offers and investigate strategies to boost weekend sales.
 
--Continuous Monitoring: Regularly track dashboard metrics to adapt strategies and identify new growth avenues.
+- Continuous Monitoring: Regularly track dashboard metrics to adapt strategies and identify new growth avenues.
 
 
 
